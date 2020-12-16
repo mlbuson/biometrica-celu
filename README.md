@@ -32,7 +32,7 @@ BioMetricAuthenticator.shared.allowableReuseDuration = 60   //(iOS 9.0 or later)
 
 ## Features
 
-- Works with Apple Face ID (iPhone X, Xs, XR, XsMax) and other Touch ID having devices.
+- Works with Apple Face ID (iPhone X, Xs, XR, XsMax) and other Touch ID having devices..
 - Predefined error handling when recognition fails.
 - Automatic authentication with device passcode on multiple failed attempts.
 
